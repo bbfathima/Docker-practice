@@ -35,3 +35,27 @@ For this first we need to create mysql batabase with the help of commands
 ![preview](images/5.PNG)
 
 The above image represents creation of database and using of it
+
+
+Task: Create an alpine container in interactive mode and install 
+python
+
+
+1. Create an instance
+![preview](images/6.PNG)
+2. Install docker in the instance
+3. Create an docker file
+![preview](images/7.PNG)
+4. Build the Docker file
+   Check the python version
+![preview](images/8.PNG)
+5. With this below image we can check the docker images
+![preview](images/9.PNG)
+6. Run the docker container and see what is there in container
+![preview](images/10.PNG)
+
+
+Task: Create a ubuntu container with sleep 1d and then login 
+using exec and install python
+
+
